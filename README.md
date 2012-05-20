@@ -4,7 +4,7 @@ Dot-B Social Media Icons Set
 #### — free for public use.  
 ====
 **Name:** Dot-B Social Media Icons Set  
-**Size:** 32*32(px)/PNG  
+**Size:** 32\*32(px)/PNG  
 **License:** Creative Commons Attribution No Derivatives (by-nd)  
 **Include:** Facebook, Twitter, Google+, tumblr, Flickr, Picasa, Rss, Delicious, Tencent, Sina  
 **Ideas:** Colorful and sample icons putting together with dots that is 1px to 1px.  
