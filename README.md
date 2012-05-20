@@ -1,8 +1,6 @@
-Dot-B Social Media Icons Set
-===========
-
+#Dot-B Social Media Icons Set
 #### — free for public use.  
-====
+
 **Name:** Dot-B Social Media Icons Set  
 **Size:** 32\*32(px)/PNG  
 **License:** Creative Commons Attribution No Derivatives (by-nd)  
